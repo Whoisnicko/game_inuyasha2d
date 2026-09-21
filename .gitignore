@@ -1,3 +1,6 @@
-﻿.playwright-mcp/
-node_modules/
+﻿node_modules/
+.wrangler/
+.dev.vars*
+!.dev.vars.example
+.playwright-mcp/
 *.log
